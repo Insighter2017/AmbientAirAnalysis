@@ -1,4 +1,4 @@
-# AmbientAirAnalysis
+# Ambient Air Analysis
 ### Observations:  Overall there is a downward trend in motor emissions and coal pollution based on this set.
 
 ######  The purpose of these visualizations is to discover whether emissions and pollutants decreased over a six-year period.
